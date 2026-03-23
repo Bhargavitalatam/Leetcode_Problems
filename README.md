@@ -10,5 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0322-coin-change) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
