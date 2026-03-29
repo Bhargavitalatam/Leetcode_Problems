@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
