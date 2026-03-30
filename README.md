@@ -19,8 +19,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0518-coin-change-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0322-coin-change) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
