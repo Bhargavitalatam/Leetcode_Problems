@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0322-coin-change](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
