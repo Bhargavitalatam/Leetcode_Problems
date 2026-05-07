@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0322-coin-change](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
