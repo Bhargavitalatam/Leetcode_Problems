@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0518-coin-change-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0322-coin-change) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0316-remove-duplicate-letters) |
 ## Recursion
