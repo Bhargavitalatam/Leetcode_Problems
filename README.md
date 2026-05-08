@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1025-divisor-game) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Array
 |  |
@@ -75,4 +76,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0316-remove-duplicate-letters) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
