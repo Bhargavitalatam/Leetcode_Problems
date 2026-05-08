@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Array
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 ## Breadth-First Search
 |  |
