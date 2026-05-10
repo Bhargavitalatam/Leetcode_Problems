@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0518-coin-change-ii) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
