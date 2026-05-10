@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1025-divisor-game) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Breadth-First Search
 |  |
 | ------- |
