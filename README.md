@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Breadth-First Search
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/0054-spiral-matrix) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Bhargavitalatam/Leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
 | ------- |
